@@ -4,12 +4,17 @@ Extension to localize the Flarum forum software and its official extensions into
 
 ### Version
 
-- 0.8.1
+- 0.8.2
 - Released on April 08, 2019
 
 ### Compatibility
 
 - [Flarum](https://github.com/flarum/core) (Core v0.1.0-beta.8.1)
+
+### Credits
+
+- [Amir Ahmic](https://github.com/ahmic)
+- [Emir Softic](https://github.com/emchooo)
 
 ### License
 

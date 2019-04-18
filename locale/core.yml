@@ -242,7 +242,7 @@ core:
       load_more_button: => core.ref.load_more
       mark_as_read_tooltip: Označi kao pročitano
       replied_text: "{username} odgovorio {ago}"
-      started_text: "{username} poreknuo {ago}"
+      started_text: "{username} pokrenuo {ago}"
 
     # These translations are used in the Edit User modal dialog (admin function).
     edit_user:
@@ -330,8 +330,8 @@ core:
 
     # These translations are used in the scrubber to the right of the post stream.
     post_scrubber:
-      now_link: Sada
-      original_post_link: Originalni post
+      now_link: Zadnji post
+      original_post_link: Prvi post
       unread_text: "{count} nepročitanih"
       viewing_text: "{index} od {count} posta|{index} od {count} postova"
 
@@ -565,7 +565,7 @@ core:
     username: Username
     users: Korisnici                                 # Referenced by flarum-statistics.yml
     write_a_reply: Napiši odgovor...
-    you: Ti                                     # Referenced by flarum-likes.yml, flarum-mentions.yml
+    you: Tebi                                     # Referenced by flarum-likes.yml, flarum-mentions.yml
 
   ##
   # GROUP NAMES - These keys are translated at the back end.
