@@ -149,7 +149,7 @@ core:
       read_heading: Pregled
       rename_discussions_label: Izmjena naziva teme
       reply_to_discussions_label: Odgovaranje na temu
-      sign_up_label: Sign up
+      sign_up_label: Registracija
       start_discussions_label: Pokretanje tema
       view_discussions_label: Pregled tema
       view_last_seen_at_label: Pregled korisnikovog vremena zadnje aktivnosti
@@ -231,7 +231,7 @@ core:
       delete_button: => core.ref.delete
       delete_confirmation: "Da li ste sigurni da želite izbrisati ovu temu?"
       delete_forever_button: => core.ref.delete_forever
-      log_in_to_reply_button: Log In da odgovorite
+      log_in_to_reply_button: Prijavite se da odgovorite
       rename_button: => core.ref.rename
       reply_button: => core.ref.reply
       restore_button: => core.ref.restore
@@ -302,7 +302,7 @@ core:
       invalid_login_message: Vaši login podaci nisu ispravni.
       password_placeholder: => core.ref.password
       remember_me_label: Zapamti me
-      sign_up_text: "Nemate račun? <a>Sign Up</a>"
+      sign_up_text: "Nemate račun? <a>Registracija</a>"
       submit_button: => core.ref.log_in
       title: => core.ref.log_in
       username_or_email_placeholder: Username ili Email
@@ -371,7 +371,7 @@ core:
     sign_up:
       dismiss_button: => core.ref.okay
       email_placeholder: => core.ref.email
-      log_in_text: "Imate račun? <a>Log In</a>"
+      log_in_text: "Imate račun? <a>Prijava</a>"
       password_placeholder: => core.ref.password
       submit_button: => core.ref.sign_up
       title: => core.ref.sign_up
@@ -543,7 +543,7 @@ core:
     edit: Izmjeni
     email: Email
     load_more: Učitaj još
-    log_in: Log In
+    log_in: Prijava
     log_out: Log Out
     mark_all_as_read: Označi sve kao pročitano
     next_page: Sljedeća stranica
@@ -559,7 +559,7 @@ core:
     restore: Povrati
     save_changes: Snimi izmjene                   # Referenced by flarum-suspend.yml, flarum-tags.yml
     settings: Postavke
-    sign_up: Sign Up
+    sign_up: Registracija
     some_others: "{count} drugi|{count} drugih"  # Referenced by flarum-likes.yml, flarum-mentions.yml
     start_a_discussion: Nova tema
     username: Username
